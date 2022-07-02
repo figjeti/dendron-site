@@ -30,7 +30,7 @@ To use template variables, use the angle bracked syntax `<%= VARIABLE %>`
 An example of using template variables in your template:
 - input
     ```md
-    Today is <%=CURRENT_YEAR%>.<%= CURRENT_MONTH%>.<%= CURRENT_DAY%>,
+    Today is <%= CURRENT_YEAR %>.<%= CURRENT_MONTH %>.<%= CURRENT_DAY %>,
     ```
 - output
     ```
