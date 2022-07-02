@@ -23,7 +23,7 @@ This is extremely useful whenever you want to re-use the outline of a note. Exam
 
 ![[dendron.topic.templates.template-variables#summary,1:#^w9f1tyetgq6z]]
 
-To use template variables, use the angle bracked syntax `<%= VARIABLE %>` 
+To use template variables, use the angle bracket syntax `<%= VARIABLE %>` 
 
 > NOTE: the text enclosed in `<%= VARIABLE %>` will be replaced when the template is applied
 
